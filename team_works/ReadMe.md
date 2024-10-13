@@ -1,0 +1,4 @@
+- Fork the repo
+- Create directories with your names under the directory "team_works"
+- Add your works to the directory you created
+- Raise MR to origin/master
