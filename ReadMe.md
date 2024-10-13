@@ -1,5 +1,5 @@
 - Fork the repo : https://github.com/proarcherdemo/PythonTraining
-- Create directories with your names under the directory "team_works"
+- Create directories with your names under the directory <font color='cyan'> <b> team_works </b> </font>
 - Add your works to the directory you created
 - Create a pull request to origin/master
 
