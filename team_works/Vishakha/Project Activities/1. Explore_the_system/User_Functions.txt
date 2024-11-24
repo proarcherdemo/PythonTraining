@@ -1,0 +1,16 @@
+Customer
+1. Login
+2. Fund Transfer
+3.
+4.
+5.
+
+
+
+
+
+Admin
+1.
+2.
+3.
+4.
