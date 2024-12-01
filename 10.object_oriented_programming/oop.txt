@@ -1,5 +1,4 @@
-An object-oriented paradigm is to design the program using classes and objects. 
-Class refers to blueprint of an entity and the object is related to real-word entities such as person, house etc. 
+An object-oriented is a programming paradigm/approach that helps to design a program using the concept of classes and objects. 
 
 OOP allows for more structured and reusable code, making it easier to manage and scale.
 
@@ -20,10 +19,11 @@ These features of OOP help to organize code in a modular, reusable, and easy-to-
 
 Class
 ====== 
-It is a logical entity that encapsulates attributes and methods.
+It is a logical entity (blueprint) that has attributes and methods.
 
 Attributes: Variables that hold data associated with a class or an instance.
-Methods: Functions that define the behavior of a class or an instance. Methods operate on the data (attributes) within the class.
+Methods: Functions that define the behavior of a class or an instance. 
+         Methods operate on the data (attributes) within the class.
 
 For example: if you have an employee class, then it should contain an attribute and method, i.e. name, age, salary, etc.
 
@@ -44,6 +44,7 @@ Encapsulation
 ==============
 Bundling the data (attributes) and the methods that operate on the data into a single unit (class). 
 It also involves restricting access to certain components to prevent unintended interference.
+
 
 Abstraction 
 ============
