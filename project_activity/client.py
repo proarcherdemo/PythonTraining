@@ -20,6 +20,19 @@ def promptForLogin():
     # Delegate the request to handler
     # Controller 
     response = LoginHandler.handle_login(username, password)
+    print(response)
+    if response is None:
+        print("Invalid Credentials. Either username or password is incorrect")
+    else:
+        if response[2] == 0:
+            #Display the customer dashboard
+            print("You are successfully logged in as a customer. ")
+            # Dispaly the customer menu option with other details
+        elif response[2] == 1:
+            #Display the admin dashboard
+            print("You are successfully logged in as a admin. ")
+            # Dispaly the admin menu option with other details
+
 
 
 if __name__ == '__main__':
