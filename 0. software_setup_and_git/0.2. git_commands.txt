@@ -12,3 +12,6 @@ $ git push -u origin master
 
 SSH-KEY
 $ ssh-keygen -t ed25519 -C "a@b.com"
+
+SSL Issue (Run this command to address it)
+git config --global http.sslbackend schannel
