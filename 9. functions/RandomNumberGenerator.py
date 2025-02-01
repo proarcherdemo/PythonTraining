@@ -26,3 +26,23 @@ print("Username : ", username)
 
 sequenceNo = "From DB"
 username = "{}{}{}".format(str,rint,sequenceNo)
+
+
+
+def add(num1, num2):
+    return num1+num2
+
+
+def add(num1, num2, num3):
+    return num1+num2
+
+
+def add(num1, num2, num3, num4):
+    return num1+num2
+
+def add(num1):
+    pass
+
+
+
+# uniqueness => function_name + no of parameters / types of parameters
