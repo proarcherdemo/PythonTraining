@@ -1,0 +1,11 @@
+Customer
+1. Login, Customer selects questions and provide answers in case password recovery.
+2. Fund Transfer.
+3. View statement (multiple options like current month / previous month, quarterly, custom date etc ).
+4. View different account and balance.
+5. Option to know about FD / RD interest rate. Online apply FD / RD which requires approval.
+6. Add beneficiary account.
+7. Request for Cheque book.
+8. Modify personal details.
+9. Loan Details if any.
+10. Requesting / Upgrading - Debit / Credit / Meal/ Forex card if any.
