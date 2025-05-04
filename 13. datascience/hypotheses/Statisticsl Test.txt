@@ -1,0 +1,78 @@
+Apartment -> 60 Houses -> House no: 01 to 60
+
+
+Same Subject - Different Samples 
+ 
+Wilcoxson Sign Test -> To compare the 2 paired samples ->Rotational Shift
+------------------------------------------------------
+1st-15 Days -> 30 FH -> Morning shift -> H.no - 1 to 30
+            -> 30 FH -> Evening shift -> H.No - 31 to 60
+
+16-30 Days  -> 30 FH -> Evening shift -> H.NO - 1 to 30
+            -> 30 FH -> Morning shift -> H.No - 31 to 60
+
+Ho -> There is no significant difference in the calcium conc level in the patient in initial and After 2 weeks
+
+HA -> There is significant difference in the calcium conc level in the patient in initial and After 2 weeks
+
+
+
+
+Freidman Test -> To compare more than 2 paired samples
+-------------------------------------------------------
+1st - 10 Days -> 20 FH -> Morning shift -> h.no - 1 to 20
+              -> 20 FH -> Afternoon shift -> h.no - 21 to 40
+              -> 20 FH -> Evening shift -> h.no - 41 to 60
+
+11-20 Days -> 20 FH -> Afternoon shift -> h.no - 1 to 20
+           -> 20 FH -> Evening shift -> h.no - 21 to 40
+           -> 20 FH -> Morning shift -> h.no - 41 to 60
+
+21-30 Days -> 20 FH -> Evening shift -> h.no - 1 to 20
+           -> 20 FH -> Morning shift -> h.no - 21 to 40
+           -> 20 FH -> Afternoon shift -> h.no - 41 to 60
+
+
+
+Mann whitney Test -> To compare 2 independent samples
+------------------------------------------------------
+1-30 Days -> 30 FH -> Morning shift only
+          -> 30 FH -> Evening shift only
+
+
+
+Krushkal Wallis Test -> To compare more than 2 independent samples
+------------------------------------------------------------------
+1-30 Days -> 20 FH -> Morning Shift only
+          -> 20 FH -> Afternoon shift only
+          -> 20 FH -> Evening shift only
+
+
+
+Chi square test -> To check the dependency of the variables. Variables should be categorical
+
+Ho -> There is no dependency b/w Gender and Smoking
+Ha -> There is dependency b/w Gender and Smoking
+
+Variables -> continuous and Categorical
+
+Variables -> Gender - > Male and Female
+          -> Smoking -> Past Smoker, Current Smoker and Non Smoker
+
+-------------------------------------------------------------------------
+
+One Sample Test -> To compare the sample mean with population mean
+
+Sample Mean ->
+Population Mean -> 
+
+2 sample paired t test
+-----------------------
+To compare the mean of 2 paired samples
+
+
+Freidman
+Independent T test
+one and two anova
+
+
