@@ -1,0 +1,49 @@
+
+Registered Customer:-
+1]login with valid credentials
+         customer/Account details-->
+            user id --can be change
+            password --can be change
+            Account number  --cant change
+            bank name  --cant change
+            account type  --can be change
+            account name --can be change
+            ifsc code    -- cant change
+            address  -- can be change
+            mobile number- can be change
+            email id -cant be change
+            pan number --cant change
+            aadhar card --cant change
+            nominee details --can be change
+
+2]passbook details: - month , year, all transactional history
+3]loan: -apply new loans, home loan details if taken, personal loan details taken
+4]credit card details: - limit, balance, credit card statement,transaction history
+5]apply e-KYC
+6]open FD,RD,NPS, account
+7] request for check book issuance
+
+Admin actions :-
+1]login with valid credentials
+       approve customer details update-->
+            reset userid request--view and approve
+            reset password request--view and approve
+            account type  --view and approve
+            account name --view and approve
+            address  --view and approve
+            mobile number--view and approve
+            email id --view and approve
+            nominee details --view and approve
+
+2]loan approval for customers:-home, personal
+3] credit card approval for customers
+4] approve e-kyc
+5]approve FD,RD,NPS account
+6] approve check book issuance request
+
+
+
+
+
+
+
