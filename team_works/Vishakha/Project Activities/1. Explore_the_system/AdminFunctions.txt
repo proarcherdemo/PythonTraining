@@ -1,0 +1,12 @@
+Admin
+1. New user registration, based on type of user managing the access level for the features.
+2. Regenerating new password in case Customer select forgot password.
+3. Approval of new beneficiary account after validation.
+4. restrication on Fund transfer only in case beneficiary is added in last 24 hours.
+5. in case of Cheque book request, approval by Admin
+6. Approval post validation, for any personal details is updated by customer.
+7. Home loan provisinal certificate issuance in case any.
+8. Sending any notifications to customer, like in case netbanking website planned maintainence activity is scheduled or if intreset rates change.
+9. Approving the request in case customer Issuing Debit / Credit / Forex / Meal card.
+10.Hotlisting Debit / Credit card in case customer lost it.
+11. Approval for FD / RD requests made by customer.
